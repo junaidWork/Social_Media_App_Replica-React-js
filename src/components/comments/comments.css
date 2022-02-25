@@ -1,0 +1,8 @@
+.comment_button {
+  height: 25px;
+  padding: 8px;
+  line-height: 0;
+}
+.comment_button i {
+  font-size: 10px;
+}
